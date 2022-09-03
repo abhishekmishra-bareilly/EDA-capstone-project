@@ -10,3 +10,4 @@ Is there any noticeable difference of traffic among different areas and what cou
 
 # finally the conclusion is 
 Most airbnb is located in Manhattan and Brooklyn. Due to capital income state Manhattan is most Expensive.
+Correlation graph shows that in the U.S people prefer privacy than the price, so the private room and entire home are most preferable room type.
