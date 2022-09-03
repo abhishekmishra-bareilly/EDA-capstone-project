@@ -7,4 +7,6 @@ i solve some problems like What can we learn about different hosts and areas?
 What can we learn from predictions?
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
-finally the conclusion is 
+
+# finally the conclusion is 
+Most airbnb is located in Manhattan and Brooklyn. Due to capital income state Manhattan is most Expensive.
